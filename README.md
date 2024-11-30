@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mosaad</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Doctor App](https://github.com/Mosad11/doctor_app)
-
 - 🌱 I’m currently learning **Advanced Topics in Flutter & IOS Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mossad-selim-78b644aa/](https://www.linkedin.com/in/mossad-selim-78b644aa/)
