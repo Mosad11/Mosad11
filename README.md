@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced Topics in Flutter & IOS Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mossad-selim-78b644aa/](https://www.linkedin.com/in/mossad-selim-78b644aa/)
+- 👨‍💻 All my projects are available at [https://www.linkedin.com/in/mossad-selim-78b644aa/](https://www.linkedin.com/in/mossad-selim-78b644aa/)
 
 - 💬 Ask me about **Anything About Flutter**
 
