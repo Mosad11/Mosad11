@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Mosaad</h1>
+<h1 align="center">Hi, <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"> I'm Mosaad</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Advanced Topics in Flutter & IOS Development**
