@@ -1,18 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Mossad%20Selim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Engineer%20%E2%80%A2%205%2B%20Years%20Building%20Production%20Apps&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0553B1,50:13B9FD,100:5FE3C0&height=230&section=header&text=Mossad%20Selim&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Mobile%20Architecture%20%7C%20Production%20Apps&descAlignY=60&descSize=20" alt="Mossad Selim" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=600&lines=Clean+Architecture+%7C+BLoC+%7C+Freezed;Shipping+to+Google+Play+%26+App+Store;Arabic-first+RTL+apps+for+KSA+%26+Egypt;Real-time%2C+offline-ready%2C+production-grade" alt="Typing SVG" />
+  <a href="https://github.com/Mosad11">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=5FE3C0&center=true&vCenter=true&width=800&height=60&lines=Building+fast%2C+scalable+Flutter+apps+%F0%9F%9A%80;Clean+Architecture+%2B+BLoC+in+production;From+Figma+to+Google+Play+%26+App+Store+%F0%9F%93%B1;Secure+auth%2C+payments+%26+push+notifications+%F0%9F%94%90;Turning+ideas+into+polished+mobile+products+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mossad-selim-78b644aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mossad.selim11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Mosad11&style=for-the-badge&color=02569B&label=PROFILE+VIEWS" />
+  <a href="https://www.linkedin.com/in/mossad-selim-78b644aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mossad.selim11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/20XXXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
