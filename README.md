@@ -42,22 +42,21 @@
   <img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions" alt="GitHub Actions" />
   <img src="https://skillicons.dev/icons?i=postman" width="48" title="Postman" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48" title="Java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=swift" width="48" title="Claude" alt="Claude" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java" />
+  <img src="assets/claude.svg" width="48" title="Claude" alt="Claude" />
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Clean_Architecture-0A66C2?style=for-the-badge" title="Clean Architecture" />
-  <img src="https://img.shields.io/badge/MVVM-7B1FA2?style=for-the-badge" title="MVVM" />
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" title="GetX" />
-  <img src="https://img.shields.io/badge/Shared_Preferences-546E7A?style=for-the-badge" title="Shared Preferences" />
-  <img src="https://img.shields.io/badge/FCM_Push-FFA000?style=for-the-badge&logo=firebase&logoColor=white" title="Firebase Cloud Messaging" />
-  <img src="https://img.shields.io/badge/bloc__test-43A047?style=for-the-badge" title="bloc_test" />
-  <img src="https://img.shields.io/badge/Platform_Channels-455A64?style=for-the-badge" title="Native platform channels" />
-  <img src="https://img.shields.io/badge/RTL_%2F_i18n-00897B?style=for-the-badge" title="RTL & localization (AR / EN / UR)" />
+    <img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-0C7BDC?style=for-the-badge" title="BLoC / Cubit" />
+  <img src="https://img.shields.io/badge/Freezed-0175C2?style=for-the-badge" title="Freezed" />
+  <img src="https://img.shields.io/badge/Dio%20%2B%20Retrofit-02569B?style=for-the-badge" title="Dio + Retrofit" />
+  <img src="https://img.shields.io/badge/GetIt%20%2B%20Injectable-13B9FD?style=for-the-badge" title="GetIt + Injectable" />
+  <img src="https://img.shields.io/badge/Hive-FFB300?style=for-the-badge" title="Hive" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" title="Sentry" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" title="Google Maps" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" title="Stripe" />
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" title="Google Play" />
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" title="App Store" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude Code" />
 </p>
 
 ---
