@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0553B1,50:13B9FD,100:5FE3C0&height=230&section=header&text=Mossad%20Selim&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Mobile%20Architecture%20%7C%20Production%20Apps&descAlignY=60&descSize=20" alt="Mossad Selim" />
+  <img src="assets/header.svg" width="100%" alt="Mossad Selim — Flutter Mobile Engineer" />
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mossad-selim-78b644aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mossad.selim11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://wa.me/20XXXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/mossad-selim-78b644aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mossad.selim11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/201060056199" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
