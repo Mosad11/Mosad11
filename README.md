@@ -1,23 +1,102 @@
-<h1 align="center">Hi, <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Waving Hand" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 4%; display: inline-block;" data-target="animated-image.originalImage"> I'm Mosaad</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Advanced Topics in Flutter & IOS Development**
+# Mossad Selim
 
-- 👨‍💻 All my projects are available at [https://www.linkedin.com/in/mossad-selim-78b644aa/](https://www.linkedin.com/in/mossad-selim-78b644aa/)
+### Senior-track Flutter Engineer · Clean Architecture · Production Mobile Apps
 
-- 💬 Ask me about **Anything About Flutter**
+<a href="https://linkedin.com/in/mossad-selim-78b644aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mossad.selim11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Cairo,%20Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Mid%2FSenior%20Flutter%20roles-16a34a?style=for-the-badge" />
 
-- 📫 How to reach me **mossad.selim11@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mossad-selim-78b644aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mossad selim" height="30" width="40" /></a>
+---
+
+## About
+
+Flutter engineer with **5+ years** shipping mobile apps — freelancing since 2019, full-time since 2021.
+I've spent most of that time as the **sole mobile engineer** on small product teams, which means I own the app end-to-end:
+architecture, API integration, state management, localization, testing, CI, and store releases on Google Play and the App Store.
+
+```dart
+final mossad = FlutterEngineer(
+  experience: '5+ years',
+  architecture: ['Clean Architecture', 'Feature-first', 'MVVM'],
+  state: ['BLoC / Cubit', 'Freezed sealed states', 'GetX'],
+  networking: ['Dio', 'Retrofit', 'single-flight token refresh'],
+  di: ['get_it', 'injectable'],
+  storage: ['Hive', 'SQLite', 'SharedPreferences'],
+  quality: ['bloc_test', 'Sentry', 'code review automation'],
+  i18n: ['Arabic-first RTL', 'English', 'Urdu'],
+  currentlyLearning: ['CI/CD', 'System design', 'DevOps for mobile'],
+);
+```
+
+---
+
+## What I build
+
+| Product | Domain | Highlights |
+|---|---|---|
+| **Facilities management platform** | B2B / IoT | Multi-level location hierarchy, shift scheduling, task assignment, attendance & leave, IoT sensor management, real-time updates via SignalR, kiosk feedback app on wall-mounted tablets, AR/EN/UR |
+| **E-commerce platform** | Retail (KSA / Egypt) | Cart & checkout, orders & returns, payment WebView verification, OTP auth, maps & addresses, centralized money math, Sentry, `bloc_test` coverage |
+| **Salon booking system** | Booking | Customer app + admin dashboard for a multi-branch salon, flexible roles & permissions, three booking types (regular, VIP, home visit), branch-level scheduling and shifts |
+
+> Most of my production work lives in private company repositories. The public repos below are learning and portfolio projects.
+
+---
+
+## Engineering practices
+
+- **Architecture** — Clean Architecture with feature-first modules; domain layer free of Flutter imports
+- **State** — single immutable Freezed state per cubit, sealed `ApiResult` / failure types, skeleton loading
+- **Networking** — Retrofit + Dio interceptors with single-flight token refresh and a central error handler
+- **Reliability** — Sentry crash reporting, disposal audits, unit tests with `bloc_test`
+- **Localization** — Arabic-first, full RTL, multi-language from day one
+- **Integrations** — Stripe / PayPal, Google Maps, push notifications (FCM / APNs), native platform channels
+- **Release** — signed AAB/IPA builds with `--dart-define-from-file`, Play App Signing, App Store review readiness
+- **AI-assisted workflow** — Claude Code with MCP servers and custom agents for scaffolding, code review, tests, and release checks
+
+---
+
+## Tech stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,androidstudio,vscode,git,github,githubactions,postman,figma&perline=12" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p>
+<img src="https://img.shields.io/badge/BLoC-0C7BDC?style=flat-square" />
+<img src="https://img.shields.io/badge/Freezed-0175C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Dio%20%2F%20Retrofit-02569B?style=flat-square" />
+<img src="https://img.shields.io/badge/get__it%20%2F%20injectable-13B9FD?style=flat-square" />
+<img src="https://img.shields.io/badge/Hive-FFB300?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosad11&show_icons=true&locale=en&layout=compact" alt="mosad11" /></p>
+---
 
-<h1 align="center">Believe in yourself everything is possible.
-</h1>
+## Featured repositories
+
+<p>
+<a href="https://github.com/Mosad11/booky"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosad11&repo=booky&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/Mosad11/doctor_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosad11&repo=doctor_app&theme=github_dark&hide_border=true" /></a>
+</p>
+<p>
+<a href="https://github.com/Mosad11/ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosad11&repo=ecommerce&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/Mosad11/movies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mosad11&repo=movies&theme=github_dark&hide_border=true" /></a>
+</p>
+
+---
+
+<div align="center">
+
+**Open to Mid / Senior Flutter roles — remote, Egypt, or Gulf.**
+Reach me at **mossad.selim11@gmail.com**
+
+</div>
