@@ -5,7 +5,7 @@
 <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#0553B1"/><stop offset="0.5" stop-color="#13B9FD"/><stop offset="1" stop-color="#5FE3C0"/></linearGradient>
 </defs>
 <rect x="1" y="1" width="898" height="198" rx="18" fill="url(#bg)" stroke="#30363d"/>
-<text x="450.0" y="38" text-anchor="middle" font-size="17" font-weight="700" fill="url(#ttl)" letter-spacing="1">from code to the stores · release flow</text>
+<text x="450.0" y="38" text-anchor="middle" font-size="17" font-weight="700" fill="url(#ttl)" letter-spacing="1">From code to the stores · release flow</text>
 <line x1="75" y1="100" x2="825" y2="100" stroke="#30363d" stroke-width="4" stroke-linecap="round"/>
 <line x1="75" y1="100" x2="825" y2="100" stroke="#13B9FD" stroke-width="2" stroke-dasharray="8 12" opacity=".7"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="1s" repeatCount="indefinite"/></line>
 <circle cx="75.0" cy="100" r="26" fill="none" stroke="#0553B1" stroke-width="2" opacity="0">
