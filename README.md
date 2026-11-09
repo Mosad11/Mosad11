@@ -28,6 +28,22 @@
 
 ---
 
+### 📊 Impact in Numbers
+
+<p align="center"><img src="assets/impact.svg" width="100%" alt="Impact in numbers" /></p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+### 🏛️ How I Build
+
+<p align="center"><img src="assets/architecture.svg" width="100%" alt="Feature-first Clean Architecture" /></p>
+
+### 🔄 How I Ship
+
+<p align="center"><img src="assets/pipeline.svg" width="100%" alt="Release flow" /></p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
