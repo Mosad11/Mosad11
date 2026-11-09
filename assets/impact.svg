@@ -12,13 +12,13 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/>
 <rect x="183.4" y="1" width="168.4" height="138" rx="16" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.6"/>
 <text x="267.6" y="58" text-anchor="middle" font-size="38" font-weight="800" fill="url(#ttl)">3</text>
-<text x="267.6" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">production platforms</text>
-<text x="267.6" y="110" text-anchor="middle" font-size="11.5" fill="#8b949e">IoT · e-commerce · booking</text></g>
+<text x="267.6" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">companies</text>
+<text x="267.6" y="110" text-anchor="middle" font-size="11.5" fill="#8b949e">full-time since 2021</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.6s" fill="freeze"/>
 <rect x="365.8" y="1" width="168.4" height="138" rx="16" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.6"/>
-<text x="450.0" y="58" text-anchor="middle" font-size="38" font-weight="800" fill="url(#ttl)">3</text>
-<text x="450.0" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">languages</text>
-<text x="450.0" y="110" text-anchor="middle" font-size="11.5" fill="#8b949e">Arabic (RTL) · English · Urdu</text></g>
+<text x="450.0" y="58" text-anchor="middle" font-size="38" font-weight="800" fill="url(#ttl)">2019</text>
+<text x="450.0" y="88" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">freelancing since</text>
+<text x="450.0" y="110" text-anchor="middle" font-size="11.5" fill="#8b949e">2 apps on Google Play</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.6s" fill="freeze"/>
 <rect x="548.2" y="1" width="168.4" height="138" rx="16" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.6"/>
 <text x="632.4" y="58" text-anchor="middle" font-size="38" font-weight="800" fill="url(#ttl)">2</text>
