@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="225" viewBox="0 0 420 225">
+  <style>
+    .t { font: 700 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70A5FD; }
+    .l { font: 500 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #A9B1D6; }
+    .v { font: 700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #38BDAE; }
+    .row { opacity: 0; animation: in .5s ease-out forwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" width="419" height="224" fill="#1A1B27" stroke="#2A2E45"/>
+  <text x="25" y="38" class="t">Most Used Languages</text>
+  <clipPath id="bar"><rect x="25" y="62" width="370" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)"><g style="transform-origin:25px 0;animation:grow 1s ease-out forwards"><rect x="25.0" y="62" width="351.3" height="10" fill="#00B4AB"/><rect x="376.3" y="62" width="9.8" height="10" fill="#F05138"/><rect x="386.2" y="62" width="8.0" height="10" fill="#3572A5"/><rect x="394.2" y="62" width="0.8" height="10" fill="#A97BFF"/></g></g>
+  <g class="row" style="animation-delay:0.60s"><circle cx="30" cy="107" r="5" fill="#00B4AB"/><text x="41" y="112" class="l"><tspan class="v" style="font-size:14px">Dart</tspan>  95.0%</text></g>
+  <g class="row" style="animation-delay:0.72s"><circle cx="220" cy="107" r="5" fill="#F05138"/><text x="231" y="112" class="l"><tspan class="v" style="font-size:14px">Swift</tspan>  2.7%</text></g>
+  <g class="row" style="animation-delay:0.84s"><circle cx="30" cy="145" r="5" fill="#3572A5"/><text x="41" y="150" class="l"><tspan class="v" style="font-size:14px">Python</tspan>  2.2%</text></g>
+  <g class="row" style="animation-delay:0.96s"><circle cx="220" cy="145" r="5" fill="#A97BFF"/><text x="231" y="150" class="l"><tspan class="v" style="font-size:14px">Kotlin</tspan>  0.2%</text></g>
+</svg>
